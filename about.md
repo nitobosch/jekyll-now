@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Some information about you!
+Más información.
 
 ### More Information
 
